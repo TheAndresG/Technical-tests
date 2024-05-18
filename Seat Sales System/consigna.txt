@@ -1,0 +1,47 @@
+ Video: https://www.youtube.com/watch?v=npfzSC8B3aM
+ Autor: TodoCode
+
+///Espanol
+
+ 1era Parte: 
+  Suponer un sistema de reserva de asientos.
+  El teatro cuenta con 10 filas de 10 asientos. Se necesita desarollar un sistema(sin BD):
+ 1. Cargar el "Mapa" de las filas y asientos.
+X: Asientos Ocupados.
+L: Asientos libres. Por defecto todos los asientos.
+
+ 2. Manejas la reserva de asientos contemplando que un asiento solo puede ser reservado si se encuentra LIBRE.
+En caso de no estar LIBRE, se debera permitir al comprador elegir otro asiento. Si se encuentra libre, debera pasar a OCUPADO.
+
+ 3. Par finalizar el programa se debera ingresar un valor en particular.
+Contemplar que no existe una cantidad exacta de veces que se va a ejecutar.
+
+ 4. Contemplar que solo existen 10 filas y 10 asientos.
+No se puede "Sobre Vender"
+
+Consideraciones> No se necesita un IGU ni BD.
+Evaluacion logica.
+
+Extra: Mostrar los asientos libres sin IGU. Logica y salida por consola unicamente.
+
+/// English
+1st Part:
+    Assume a seat reservation system.
+    The theater has 10 rows of 10 seats. A system needs to be developed (without DB):
+   1. Load the "Map" of the rows and seats.
+X: Occupied Seats.
+L: Free seats. By default all seats.
+
+   2. Manage seat reservations considering that a seat can only be reserved if it is FREE.
+If it is not FREE, the buyer must be allowed to choose another seat. If it is free, it must go to BUSY.
+
+   3. To finish the program, a particular value must be entered.
+Keep in mind that there is no exact number of times it will be executed.
+
+   4. Consider that there are only 10 rows and 10 seats.
+You cannot "Oversell"
+
+Considerations> A GUI or DB is not needed.
+Logical evaluation.
+
+Extra: Show free seats without GUI. Logic and output through a single console.
